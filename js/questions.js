@@ -63,10 +63,10 @@ let questions = [
     question: "What does HTTP stand for?",
     answer: "Hyper Text Transfer Protocol",
     options: [
-      "Option 1",
-      "option 2",
+      "Hyper Text Transfer Policy",
+      "Hype Text Transfer Policy",
       "Hyper Text Transfer Protocol",
-      "option 4"
+      "Hyper Text Transition Protocol"
     ]
   },
 
